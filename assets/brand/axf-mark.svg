@@ -1,0 +1,18 @@
+<svg width="320" height="92" viewBox="0 0 320 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="axfGold" x1="28" y1="10" x2="290" y2="82" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F3DA9B"/>
+      <stop offset="0.48" stop-color="#D1A95F"/>
+      <stop offset="1" stop-color="#875823"/>
+    </linearGradient>
+    <linearGradient id="axfRed" x1="24" y1="76" x2="296" y2="76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#C31831"/>
+      <stop offset="1" stop-color="#690914"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="8" width="308" height="76" rx="18" fill="#08080B" stroke="url(#axfGold)" stroke-width="2"/>
+  <path d="M39 68L76 24H102L139 68H114L106 55H74L66 68H39ZM89 38L80 48H98L89 38Z" fill="url(#axfGold)"/>
+  <path d="M136 24H161L173 39L185 24H210L187 46L211 68H185L173 53L161 68H136L160 46L136 24Z" fill="url(#axfGold)"/>
+  <path d="M214 24H284V37H249V45H278V57H249V68H225V24H214Z" fill="url(#axfGold)"/>
+  <path d="M26 76H294" stroke="url(#axfRed)" stroke-width="4" stroke-linecap="round"/>
+</svg>
