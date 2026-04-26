@@ -660,12 +660,12 @@ export const siteData = {
     {
       title: "Champion's message",
       summary: "Austin's title presence remains calculated, polished, and threatening.",
-      image: "./assets/gallery/top-moment-2..png",
+      image: "./assets/gallery/top-moment-2.png",
     },
     {
       title: "The stare-down",
       summary: "Every face-off in AXF feels like the start of a documentary trailer.",
-      image: "./assets/gallery/top-moment-3..png",
+      image: "./assets/gallery/top-moment-3.png",
     },
     {
       title: "Blood and television light",
@@ -675,7 +675,7 @@ export const siteData = {
     {
       title: "Title elevation",
       summary: "The Intercontinental Championship remains framed like a serious prize.",
-      image: "./assets/gallery/top-moment-5..png",
+      image: "./assets/gallery/top-moment-5.png",
     },
     {
       title: "Future in focus",
